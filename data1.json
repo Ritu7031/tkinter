@@ -1,0 +1,18 @@
+{
+    "category_data":[{
+        "name":"employee",
+        "list":["Ram","Shyam","Gyan"]
+      },
+      {
+        "name":"salary",
+        "list":["4000","5000","8000"]
+      },
+      {
+        "name":"company",
+        "list":["abc","def","ghi"]
+      } 
+   ]
+}
+
+            
+                     
